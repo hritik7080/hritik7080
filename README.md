@@ -12,7 +12,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 - ⚡️ Co-Founder and CTO of Python Oriented Club 👯
 - 💻 Machine Learning Intern [Kratos Innovation Labs, Singapore](https://kratosinnovationlabs.com/)
 - 🌱 Kaggle Contributer [@Kaggle](https://www.kaggle.com/hritik)
-- 🏆 1st Runner at GeekFiest Hackathon(State Level) by GeeksforGeeks (Team Leader).
+- 🏆 1st Runner in GeekFiest Hackathon(State Level) by GeeksforGeeks (Team Leader).
 - 🥇 Intel Edge AI Foundation Course Scholarship Winner
 - 🥇 Nutanix Hybrid Cloud Foundation Course Scholarship Winner
 - 💬 Ask me about anything about Python, Data Science and Machine Learning, I am happy to help
@@ -26,3 +26,4 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
