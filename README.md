@@ -27,7 +27,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
-<code><img height="20" src="https://icon2.cleanpng.com/20180805/eb/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f31f04c5.1280117815334955391271.jpg"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180529/tzb/kisspng-tableau-software-computer-software-business-intell-data-vector-5b0ddfabcc3cb5.4897778315276358838366.jpg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg"></code>
