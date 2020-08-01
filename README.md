@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**hritik7080/hritik7080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋, I'm [Hritik!](https://www.linkedin.com/in/hritik7080/)
+Energetic and passionate college student working towards B.Tech in Computer Science and Engineering at Lovely Professional University. Aiming to use my knowledge that I have acquired from my coursework as well as self study and with my hard work to make projects that can solve real world problems and help society to live an easy and smart life.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
