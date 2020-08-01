@@ -38,3 +38,5 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+**Some fact from my github insights:**
+<img align="center" src="https://user-images.githubusercontent.com/41755284/89098673-3f4b9900-d407-11ea-93f5-6c214c6e8172.png">
