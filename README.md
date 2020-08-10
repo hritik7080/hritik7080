@@ -1,12 +1,14 @@
 ### Hey 👋, I'm [Hritik!](https://www.linkedin.com/in/hritik7080/)
 <a href="https://www.linkedin.com/in/hritik7080/">
   <img align="left" alt="Hritik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  
  <br><br>
 I'm a passionate and energetic college student working towards B.Tech in Computer Science and Engineering at Lovely Professional University 🚀 from India. Aiming to use my knowledge that I have acquired from my coursework as well as self study and with my hard work to make projects that can solve real world problems and help society to live an easy and smart life.<br>
 
 Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 
-  <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
+  <!--<img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />-->
+  <img align="left" alt="Just a GIF"  width="500" height="300" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>
   
 **Talking about Personal Stuffs/Achievements:**
 - ⚡️ Co-Founder and CTO of Python Oriented Club 👯
