@@ -11,7 +11,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
   <!--<img align="left" alt="Just a GIF"  width="500" height="300" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>-->
   
 **Talking about Personal Stuffs/Achievements:**
-- ⚡️ Co-Founder and CTO of Python Oriented Club 👯
+- ⚡️ Co-Founder and CTO of Python Oriented Club 
 - 💻 Machine Learning Intern [Kratos Innovation Labs, Singapore | Remote](https://kratosinnovationlabs.com/)
 - 🌱 Kaggle Contributer [@Kaggle](https://www.kaggle.com/hritik)
 - 🏆 1st Runner in GeekFiest Hackathon(State Level) by GeeksforGeeks (Team Leader).
@@ -26,18 +26,18 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 
 
 **Languages and Tools that I usually work with:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"></code>
-<code><img height="20" src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20180529/tzb/kisspng-tableau-software-computer-software-business-intell-data-vector-5b0ddfabcc3cb5.4897778315276358838366.jpg"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg"></code>
-<code><img height="20" src="https://icon2.cleanpng.com/20180719/gkc/kisspng-learning-opencv-computer-vision-machine-learning-c-singleton-pattern-5b505052c02871.9275163515319900987871.jpg"></code>
-<code><img height="20" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"></code>
+<code><img height="30" src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180529/tzb/kisspng-tableau-software-computer-software-business-intell-data-vector-5b0ddfabcc3cb5.4897778315276358838366.jpg"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg"></code>
+<code><img height="30" src="https://icon2.cleanpng.com/20180719/gkc/kisspng-learning-opencv-computer-vision-machine-learning-c-singleton-pattern-5b505052c02871.9275163515319900987871.jpg"></code>
+<code><img height="30" src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 &nbsp;
 
