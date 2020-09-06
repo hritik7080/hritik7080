@@ -25,7 +25,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 <br>
 
 
-**Languages and Tools that I usually work with:**
+**Languages and Tools that I usually work with:**</br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/649/174/png-transparent-dart-google-developers-flutter-android-darts-text-logo-web-application.png"></code>
