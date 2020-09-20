@@ -12,7 +12,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
   
 **Talking about Personal Stuffs/Achievements:**
 - ⚡️ Co-Founder and CTO of Python Oriented Club 
-- 💻 Machine Learning Intern [Kratos Innovation Labs, Singapore | Remote](https://kratosinnovationlabs.com/)
+- 💻 Technical Content Writer Intern @[GeeksforGeeks](https://www.geeksforgeeks.org/)
 - 🌱 Kaggle Contributer [@Kaggle](https://www.kaggle.com/hritik)
 - 🏆 1st Runner in GeekFiesta Hackathon(State Level) by GeeksforGeeks (Team Leader).
 - 🥇 Intel Edge AI Foundation Course Scholarship Winner
