@@ -1,7 +1,5 @@
 ### Hey 👋, I'm [Hritik!](https://www.linkedin.com/in/hritik7080/)
 
-  
- <br><br>
 I'm a passionate and energetic college student working towards B.Tech in Computer Science and Engineering at Lovely Professional University 🚀 from India. Aiming to use my knowledge that I have acquired from my coursework as well as self study and with my hard work to make projects that can solve real world problems and help society to live an easy and smart life.<br>
 
 Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
