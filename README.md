@@ -4,8 +4,8 @@ I'm a passionate and energetic college student working towards B.Tech in Compute
 
 Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
 
-<!--<img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />-->
-  <img align="left" alt="Just a GIF"  width="500" height="300" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>
+<img align="right" alt="GIF" width="500" height="300" src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA" />
+  <!--<img align="left" alt="Just a GIF"  width="500" height="300" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>-->
   
 **Talking about Personal Stuffs/Achievements:**
 - ⚡️ Machine Learning Lead at Google Developer Students Club-LPU 
