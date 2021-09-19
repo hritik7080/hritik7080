@@ -8,8 +8,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
   <!--<img align="left" alt="Just a GIF"  width="500" height="300" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>-->
   
 **Talking about Personal Stuffs/Achievements:**
-- ⚡️ Machine Learning Lead at Google Developer Students Club-LPU 
-- ⚡️ Co-Founder and CTO of Python Oriented Club 
+- ⚡️ Former Machine Learning Lead at Google Developer Students Club-LPU 
 - 💻 Technical Content Writer Intern @[GeeksforGeeks](https://www.geeksforgeeks.org/)
 - 🌱 Kaggle Contributer [@Kaggle](https://www.kaggle.com/hritik)
 - 🏆 1st Runner in GeekFiesta Hackathon(State Level) by GeeksforGeeks (Team Leader).
