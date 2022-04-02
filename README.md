@@ -1,5 +1,6 @@
 <img alt="background" style="object-fit: contain;" src="https://media-exp1.licdn.com/dms/image/C5616AQGH1OhEoKcycA/profile-displaybackgroundimage-shrink_350_1400/0/1648914254383?e=1654128000&v=beta&t=qzgRewILg5lklYwS4uzP0SL2iY9Tqe8Lc_Bp4eR7dO4" />
-<br>
+</br>
+
 ### Hey 👋, I'm [Hritik!](https://www.linkedin.com/in/hritik7080/)
 
 I'm a passionate and energetic college student working towards B.Tech in Computer Science and Engineering at Lovely Professional University 🚀 from India. Aiming to use my knowledge that I have acquired from my coursework as well as self study and with my hard work to make projects that can solve real world problems and help society to live an easy and smart life.<br>
