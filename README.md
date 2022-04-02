@@ -1,4 +1,4 @@
-<img alt="background" style="object-fit: contain;" src="https://drive.google.com/file/d/10HlZf_kwFU6seDGvJdYSNKXO3UR_KQjo/view?usp=sharing" />
+<img alt="background" style="object-fit: contain;" src="https://media-exp1.licdn.com/dms/image/C5616AQGH1OhEoKcycA/profile-displaybackgroundimage-shrink_350_1400/0/1648914254383?e=1654128000&v=beta&t=qzgRewILg5lklYwS4uzP0SL2iY9Tqe8Lc_Bp4eR7dO4" />
 <br>
 ### Hey 👋, I'm [Hritik!](https://www.linkedin.com/in/hritik7080/)
 
