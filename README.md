@@ -1,4 +1,4 @@
-<img alt="background" style="object-fit: contain;" src="https://media-exp1.licdn.com/dms/image/C4D16AQGYVqbSvCyWJw/profile-displaybackgroundimage-shrink_350_1400/0/1651856850606?e=1670457600&v=beta&t=yjZOh9d2eaYlIDP37W6nXq2TeuvBcv9uzVku_kjscyo" />
+<img alt="background" style="object-fit: contain;" src="https://media.licdn.com/dms/image/C4D16AQGYVqbSvCyWJw/profile-displaybackgroundimage-shrink_350_1400/0/1651856850606?e=1681344000&v=beta&t=M3_dvkqnSdNnlVsu3Ncy_uq_VM6Bk74TgiNDcYu08W8" />
 </br>
 
 ### Hey 👋, I'm [Hritik!](https://www.linkedin.com/in/hritik7080/)
