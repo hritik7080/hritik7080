@@ -1,5 +1,4 @@
-<img alt="background" style="object-fit: contain;" src="https://media.licdn.com/dms/image/C4D16AQGYVqbSvCyWJw/profile-displaybackgroundimage-shrink_350_1400/0/1651856850606?e=1681344000&v=beta&t=M3_dvkqnSdNnlVsu3Ncy_uq_VM6Bk74TgiNDcYu08W8" />
-</br>
+<img alt="background" style="object-fit: contain;" src="https://raw.githubusercontent.com/hritik7080/hritik7080/master/background.jpg" />
 
 ### Hey 👋, I'm [Hritik!](https://www.linkedin.com/in/hritik7080/)
 
@@ -12,7 +11,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and gaming 💻 .
   
 **Talking about Personal Stuffs/Achievements:**
 - ⚡️ Former Machine Learning Lead at Google Developer Students Club-LPU 
-- 💻 Technical Content Writer Intern @[GeeksforGeeks](https://www.geeksforgeeks.org/)
+- 💻 Technical Content Writer Intern [@GeeksforGeeks](https://www.geeksforgeeks.org/)
 - 🌱 Kaggle Contributer [@Kaggle](https://www.kaggle.com/hritik)
 - 🏆 1st Runner in GeekFiesta Hackathon(State Level) by GeeksforGeeks (Team Leader).
 - 🥇 Intel Edge AI Foundation Course Scholarship Winner
